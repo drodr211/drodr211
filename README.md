@@ -1,4 +1,5 @@
 ![BADGE](https://github.com/drodr211/drodr211/actions/workflows/blank.yml/badge.svg)
+![BADGE](https://github.com/drodr211/drodr211/actions/workflows/sanity.yml/badge.svg)
 ### Dan Documentation
 - 🤓 Working on getting gooder
 - 🧠 Learning how to college
